@@ -1,0 +1,8 @@
+# No subir credenciales ni artefactos generados
+.env
+logs/
+# .gitignore
+*.log
+*.jar
+.env
+changelogs/auto-diff/*
